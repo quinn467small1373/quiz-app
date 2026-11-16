@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download Quiz App](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/quiz-app-download-git)
+[![Download Quiz App](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/vm8WBjV8Rn62yJAsc)
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![Download Quiz App](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/quiz-app-download-git)
+[![Download Quiz App](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/vm8WBjV8Rn62yJAsc)
 
 </div>
 
@@ -172,7 +172,7 @@ Create and play interactive quizzes for free. **Quiz App – Create &amp; Play I
 
 <div align="center">
 
-[![Download Quiz App](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://tinyurl.com/quiz-app-download-git)
+[![Download Quiz App](https://img.shields.io/badge/Download-00C853?style=for-the-badge&logo=github)](https://share.google/vm8WBjV8Rn62yJAsc)
 
 **Version 3.0.0** — Free interactive quiz application. May 2026 update. Zero cost. No payment.
 
